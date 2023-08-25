@@ -13,6 +13,10 @@ import springfox.documentation.spring.web.plugins.Docket;
 import java.util.Collection;
 import java.util.Collections;
 
+/*
+	http://localhost:8081/swagger-ui/#/
+*/
+
 @SpringBootApplication
 public class RestDemoApplication {
 
